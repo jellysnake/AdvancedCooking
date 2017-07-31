@@ -1,0 +1,9 @@
+{
+    "id" : "AdvancedCooking",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "AdvancedCooking",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
